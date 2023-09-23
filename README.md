@@ -1,3 +1,4 @@
+![logo](https://github.com/saurav-sd/saurav-sd/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Saurav Daware</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
