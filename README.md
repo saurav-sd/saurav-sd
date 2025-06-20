@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Xvantage<br>🌱 I’m currently learning Asp .Net , react , java.<br>💬 Ask me about react, java.<br>📫 How to reach me : sauravdaware200@gmail.com<br>
+🔭 I’m currently working in Arex a data management tool<br>🌱 I’m currently learning AI , fast api , react , python.<br>💬 Ask me about react, java.<br>📫 How to reach me : sauravdaware200@gmail.com<br>
 
 
 ## 🌐 Socials:
